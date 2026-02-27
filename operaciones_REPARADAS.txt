@@ -1,0 +1,16 @@
+[17:35, 22/12/2025] Abro Largos en 24274
+[11:30, 05/01/2026] Cierro Largos en 24708
+[11:31, 05/01/2026] Abro Cortos en 24708
+[15:36, 05/01/2026] Cierro Cortos en 24770
+[15:37, 05/01/2026] Abro Largos en 24770
+[10:49, 13/01/2026] Cierro Largos en 25373
+[11:26, 13/01/2026] Abro Cortos en 25346
+[15:14, 13/01/2026] Cierro Cortos en 25497
+[13:57, 14/01/2026] Abro Largos en 25332
+[10:32, 16/01/2026] Cierro Largos en 25294
+[10:33, 16/01/2026] Abro Cortos en 25294
+[10:48, 16/01/2026] Cierro Cortos en 25289
+[11:28, 16/01/2026] Abro Largos en 25325
+[12:48, 19/01/2026] Cierro Largos en 24933
+[13:40, 13/11/2025] Abro Cortos en 25033
+[12:48, 20/11/2025] Cierro Cortos en 23358
