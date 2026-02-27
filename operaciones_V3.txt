@@ -51,3 +51,579 @@
 
 [09:10, 19/01/2024] Abro: Cortos en 16627
 [15:58, 19/01/2024] Cierro: Cortos en 16549
+
+[09:03, 22/01/2024] Abro: Cortos en 16685
+[15:19, 23/01/2024] Cierro: Cortos en 16637
+
+[16:14, 23/01/2024] Abro: Cortos en 16675
+[12:10, 24/01/2024] Cierro: Cortos en 16825
+
+[12:10, 24/01/2024] Abro: Largos en 16825
+[09:03, 05/02/2024] Cierro: Largos en 16925
+
+[14:03, 05/02/2024] Abro: Cortos en 16938
+[10:13, 06/02/2024] Cierro: Cortos en 16903
+
+[15:42, 06/02/2024] Abro: Largos en 16982
+[09:11, 08/02/2024] Cierro: Largos en 16925
+
+[09:55, 08/02/2024] Abro: Largos en 16913
+[13:32, 08/02/2024] Cierro: Largos en 16984
+
+[14:35, 08/02/2024] Abro: Largos en 16997
+[15:31, 13/02/2024] Cierro: Largos en 16854
+
+[09:08, 14/02/2024] Abro: Largos en 16881
+[12:26, 15/02/2024] Cierro: Largos en 17048
+
+[13:47, 15/02/2024] Abro: Largos en 17064
+[17:16, 19/02/2024] Cierro: Largos en 17095
+
+[16:58, 20/02/2024] Abro: Largos en 17075
+[15:03, 21/02/2024] Cierro: Largos en 17093
+
+[17:30, 21/02/2024] Abro: Largos en 17110
+[12:42, 28/02/2024] Cierro: Largos en 17597
+
+[17:30, 28/02/2024] Abro: Largos en 17600
+[09:30, 01/03/2024] Cierro: Largos en 17778
+
+[10:05, 01/03/2024] Abro: Largos en 17748
+[11:16, 04/03/2024] Cierro: Largos en 17743
+
+[13:26, 04/03/2024] Abro: Largos en 17732
+[09:36, 05/03/2024] Cierro: Largos en 17660
+
+[11:04, 05/03/2024] Abro: Largos en 17670
+[15:46, 14/03/2024] Cierro: Largos en 17937
+
+[17:33, 14/03/2024] Abro: Cortos en 17936
+[09:04, 15/03/2024] Cierro: Cortos en 17941
+
+[10:06, 15/03/2024] Abro: Largos en 17958
+[14:18, 15/03/2024] Cierro: Largos en 18014
+
+[15:15, 15/03/2024] Abro: Largos en 17988
+[17:15, 15/03/2024] Cierro: Largos en 17970
+
+[09:23, 18/03/2024] Abro: Largos en 17966
+[11:10, 18/03/2024] Cierro: Largos en 17987
+
+[16:01, 18/03/2024] Abro: Cortos en 17927
+[09:00, 19/03/2024] Cierro: Cortos en 17933
+
+[10:35, 19/03/2024] Abro: Cortos en 17959
+[11:15, 19/03/2024] Cierro: Cortos en 17974
+
+[13:48, 19/03/2024] Abro: Largos en 17964
+[09:09, 20/03/2024] Cierro: Largos en 17978
+
+[09:59, 20/03/2024] Abro: Largos en 17988
+[12:24, 21/03/2024] Cierro: Largos en 18083
+
+[14:50, 21/03/2024] Abro: Largos en 18086
+[13:22, 02/04/2024] Cierro: Largos en 18471
+
+[15:16, 02/04/2024] Abro: Cortos en 18363
+[12:07, 03/04/2024] Cierro: Cortos en 18339
+
+[16:20, 03/04/2024] Abro: Largos en 18360
+[17:30, 04/04/2024] Cierro: Largos en 18402
+
+[10:09, 05/04/2024] Abro: Cortos en 18176
+[13:55, 05/04/2024] Cierro: Cortos en 18135
+
+[09:09, 08/04/2024] Abro: Cortos en 18207
+[11:36, 08/04/2024] Cierro: Cortos en 18285
+
+[13:31, 08/04/2024] Abro: Largos en 18279
+[12:31, 09/04/2024] Cierro: Largos en 18168
+
+[12:31, 09/04/2024] Abro: Cortos en 18168
+[09:30, 10/04/2024] Cierro: Cortos en 18203
+
+[10:22, 10/04/2024] Abro: Largos en 18215
+[11:53, 10/04/2024] Cierro: Largos en 18185
+
+[11:53, 10/04/2024] Abro: Cortos en 18185
+[14:58, 10/04/2024] Cierro: Cortos en 18021
+
+[15:51, 10/04/2024] Abro: Largos en 18027
+[16:15, 11/04/2024] Cierro: Largos en 17903
+
+[09:24, 12/04/2024] Abro: Cortos en 18140
+[11:46, 12/04/2024] Cierro: Cortos en 18096
+
+[09:47, 15/04/2024] Abro: Largos en 18026
+[17:28, 15/04/2024] Cierro: Largos en 17999
+
+[17:28, 15/04/2024] Abro: Cortos en 17999
+[10:54, 16/04/2024] Cierro: Cortos en 17765
+
+[11:50, 17/04/2024] Abro: Largos en 17872
+[14:20, 24/04/2024] Cierro: Largos en 18180
+
+[14:58, 24/04/2024] Abro: Cortos en 18144
+[10:01, 25/04/2024] Cierro: Cortos en 18005
+
+[10:14, 25/04/2024] Abro: Largos en 18027
+[15:35, 25/04/2024] Cierro: Largos en 17845
+
+[12:10, 26/04/2024] Abro: Cortos en 18052
+[14:38, 26/04/2024] Cierro: Cortos en 18089
+
+[14:38, 26/04/2024] Abro: Largos en 18089
+[12:22, 29/04/2024] Cierro: Largos en 18154
+
+[09:15, 02/05/2024] Abro: Largos en 17917
+[10:55, 02/05/2024] Cierro: Largos en 17902
+
+[17:25, 02/05/2024] Abro: Cortos en 17921
+[11:38, 03/05/2024] Cierro: Cortos en 17969
+
+[09:03, 06/05/2024] Abro: Cortos en 18053
+[12:53, 06/05/2024] Cierro: Cortos en 18165
+
+[13:00, 06/05/2024] Abro: Largos en 18165
+[16:00, 14/05/2024] Cierro: Largos en 18716
+
+[10:14, 15/05/2024] Abro: Largos en 18790
+[16:22, 15/05/2024] Cierro: Largos en 18839
+
+[17:30, 15/05/2024] Abro: Largos en 18875
+[16:27, 20/05/2024] Cierro: Largos en 18761
+
+[17:30, 20/05/2024] Abro: Largos en 18767
+[13:28, 21/05/2024] Cierro: Largos en 18681
+
+[14:14, 21/05/2024] Abro: Largos en 18670
+[09:24, 22/05/2024] Cierro: Largos en 18683
+
+[11:17, 22/05/2024] Abro: Largos en 18673
+[12:54, 22/05/2024] Cierro: Largos en 18674
+
+[16:06, 22/05/2024] Abro: Largos en 18693
+[15:15, 23/05/2024] Cierro: Largos en 18723
+
+[16:00, 23/05/2024] Abro: Largos en 18667
+[09:16, 24/05/2024] Cierro: Largos en 18523
+
+[09:52, 24/05/2024] Abro: Largos en 18575
+[15:44, 28/05/2024] Cierro: Largos en 18693
+
+[16:10, 28/05/2024] Abro: Cortos en 18657
+[13:05, 29/05/2024] Cierro: Cortos en 18554
+
+[14:22, 29/05/2024] Abro: Cortos en 18510
+[16:00, 29/05/2024] Cierro: Cortos en 18501
+
+[10:20, 30/05/2024] Abro: Largos en 18484
+[10:34, 04/06/2024] Cierro: Largos en 18494
+
+[10:58, 04/06/2024] Abro: Cortos en 18440
+[13:09, 04/06/2024] Cierro: Cortos en 18408
+
+[13:43, 04/06/2024] Abro: Largos en 18451
+[17:00, 04/06/2024] Cierro: Largos en 18428
+
+[09:07, 05/06/2024] Abro: Cortos en 18504
+[09:15, 05/06/2024] Cierro: Cortos en 18503
+
+[09:15, 05/06/2024] Abro: Largos en 18503
+[16:18, 05/06/2024] Cierro: Largos en 18546
+
+[16:45, 05/06/2024] Abro: Largos en 18554
+[09:46, 06/06/2024] Cierro: Largos en 18722
+
+[09:57, 06/06/2024] Abro: Largos en 18749
+[11:21, 06/06/2024] Cierro: Largos en 18726
+
+[12:10, 06/06/2024] Abro: Largos en 18696
+[11:20, 07/06/2024] Cierro: Largos en 18490
+
+[15:52, 07/06/2024] Abro: Largos en 18558
+[17:00, 07/06/2024] Cierro: Largos en 18569
+
+[11:53, 10/06/2024] Abro: Cortos en 18382
+[12:16, 10/06/2024] Cierro: Cortos en 18399
+
+[12:16, 10/06/2024] Abro: Largos en 18399
+[12:24, 11/06/2024] Cierro: Largos en 18371
+
+[12:24, 11/06/2024] Abro: Cortos en 18371
+[14:01, 12/06/2024] Cierro: Cortos en 18491
+
+[14:44, 12/06/2024] Abro: Largos en 18554
+[12:16, 13/06/2024] Cierro: Largos en 18406
+
+[13:15, 13/06/2024] Abro: Largos en 18450
+[09:02, 14/06/2024] Cierro: Largos en 18288
+
+[09:02, 14/06/2024] Abro: Cortos en 18288
+[09:38, 14/06/2024] Cierro: Cortos en 18256
+
+[10:14, 14/06/2024] Abro: Cortos en 18178
+[11:16, 14/06/2024] Cierro: Cortos en 18155
+
+[13:36, 14/06/2024] Abro: Largos en 18102
+[14:10, 14/06/2024] Cierro: Largos en 18025
+
+[14:23, 14/06/2024] Abro: Largos en 18038
+[16:13, 14/06/2024] Cierro: Largos en 17980
+
+[09:48, 17/06/2024] Abro: Cortos en 18082
+[11:17, 17/06/2024] Cierro: Cortos en 18026
+
+[11:35, 17/06/2024] Abro: Cortos en 18047
+[14:15, 17/06/2024] Cierro: Cortos en 18049
+
+[16:55, 18/06/2024] Abro: Largos en 18121
+[17:35, 18/06/2024] Cierro: Largos en 18123
+
+[09:25, 19/06/2024] Abro: Largos en 18083
+[11:14, 21/06/2024] Cierro: Largos en 18153
+
+[12:14, 21/06/2024] Abro: Cortos en 18148
+[13:26, 21/06/2024] Cierro: Cortos en 18168
+
+[14:02, 21/06/2024] Abro: Cortos en 18162
+[15:42, 21/06/2024] Cierro: Cortos en 18096
+
+[16:37, 21/06/2024] Abro: Largos en 18184
+[12:13, 26/06/2024] Cierro: Largos en 18258
+
+[13:35, 26/06/2024] Abro: Cortos en 18160
+[16:20, 26/06/2024] Cierro: Cortos en 18147
+
+[10:50, 27/06/2024] Abro: Cortos en 18172
+[11:23, 27/06/2024] Cierro: Cortos en 18166
+
+[16:27, 27/06/2024] Abro: Largos en 18240
+[13:31, 28/06/2024] Cierro: Largos en 18288
+
+[15:50, 28/06/2024] Abro: Largos en 18234
+[17:03, 28/06/2024] Cierro: Largos en 18237
+
+[15:35, 01/07/2024] Abro: Largos en 18369
+[09:40, 04/07/2024] Cierro: Largos en 18416
+
+[17:18, 04/07/2024] Abro: Largos en 18454
+[13:01, 05/07/2024] Cierro: Largos en 18591
+
+[15:02, 08/07/2024] Abro: Largos en 18559
+[14:48, 09/07/2024] Cierro: Largos en 18282
+
+[09:06, 10/07/2024] Abro: Cortos en 18290
+[10:24, 10/07/2024] Cierro: Cortos en 18277
+
+[10:53, 11/07/2024] Abro: Largos en 18462
+[11:03, 11/07/2024] Cierro: Largos en 18449
+
+[10:29, 12/07/2024] Abro: Largos en 18587
+[09:19, 15/07/2024] Cierro: Largos en 18712
+
+[10:16, 15/07/2024] Abro: Largos en 18717
+[15:15, 15/07/2024] Cierro: Largos en 18616
+
+[17:04, 15/07/2024] Abro: Largos en 18613
+[09:40, 19/07/2024] Cierro: Largos en 18217
+
+[16:30, 19/07/2024] Abro: Cortos en 18201
+[09:23, 22/07/2024] Cierro: Cortos en 18243
+
+[09:35, 22/07/2024] Abro: Largos en 18237
+[15:07, 23/07/2024] Cierro: Largos en 18567
+
+[09:14, 25/07/2024] Abro: Cortos en 18167
+[14:01, 25/07/2024] Cierro: Cortos en 18167
+
+[14:16, 25/07/2024] Abro: Cortos en 18175
+[15:15, 25/07/2024] Cierro: Cortos en 18189
+
+[15:21, 25/07/2024] Abro: Largos en 18205
+[15:40, 29/07/2024] Cierro: Largos en 18394
+
+[15:40, 29/07/2024] Abro: Cortos en 18394
+[15:51, 29/07/2024] Cierro: Cortos en 18377
+
+[15:51, 29/07/2024] Abro: Largos en 18377
+[17:02, 29/07/2024] Cierro: Largos en 18320
+
+[10:01, 30/07/2024] Abro: Largos en 18375
+[10:12, 01/08/2024] Cierro: Largos en 18286
+
+[10:12, 01/08/2024] Abro: Cortos en 18286
+[11:03, 01/08/2024] Cierro: Cortos en 18290
+
+[11:32, 01/08/2024] Abro: Largos en 18307
+[15:39, 01/08/2024] Cierro: Largos en 18316
+
+[16:54, 01/08/2024] Abro: Cortos en 18108
+[14:05, 02/08/2024] Cierro: Cortos en 17820
+
+[14:05, 02/08/2024] Abro: Largos en 17820
+[15:05, 02/08/2024] Cierro: Largos en 17745
+
+[16:53, 02/08/2024] Abro: Cortos en 17678
+[16:24, 05/08/2024] Cierro: Cortos en 17247
+
+[16:24, 05/08/2024] Abro: Largos en 17247
+[11:49, 06/08/2024] Cierro: Largos en 17279
+
+[11:53, 06/08/2024] Abro: Largos en 17297
+[14:20, 06/08/2024] Cierro: Largos en 17311
+
+[14:33, 06/08/2024] Abro: Cortos en 17267
+[16:55, 06/08/2024] Cierro: Cortos en 17406
+
+[16:59, 06/08/2024] Abro: Largos en 17395
+[17:20, 09/08/2024] Cierro: Largos en 17714
+
+[09:04, 12/08/2024] Abro: Largos en 17787
+[11:09, 12/08/2024] Cierro: Largos en 17727
+
+[11:16, 12/08/2024] Abro: Cortos en 17722
+[13:22, 12/08/2024] Cierro: Cortos en 17772
+
+[13:44, 12/08/2024] Abro: Largos en 17768
+[16:11, 12/08/2024] Cierro: Largos en 17721
+
+[09:36, 13/08/2024] Abro: Largos en 17777
+[15:21, 13/08/2024] Cierro: Largos en 17746
+
+[09:21, 14/08/2024] Abro: Largos en 17883
+[16:37, 14/08/2024] Cierro: Largos en 17836
+
+[17:22, 14/08/2024] Abro: Largos en 17871
+[11:09, 15/08/2024] Cierro: Largos en 17953
+
+[14:57, 15/08/2024] Abro: Largos en 18142
+[12:25, 20/08/2024] Cierro: Largos en 18408
+
+[10:21, 21/08/2024] Abro: Largos en 18418
+[12:53, 21/08/2024] Cierro: Largos en 18429
+
+[13:19, 21/08/2024] Abro: Largos en 18450
+[12:36, 27/08/2024] Cierro: Largos en 18647
+
+[13:40, 27/08/2024] Abro: Largos en 18695
+[16:40, 27/08/2024] Cierro: Largos en 18702
+
+[15:37, 28/08/2024] Abro: Largos en 18823
+[16:03, 29/08/2024] Cierro: Largos en 18883
+
+[17:00, 29/08/2024] Abro: Largos en 18902
+[12:32, 30/08/2024] Cierro: Largos en 18947
+
+[13:09, 30/08/2024] Abro: Largos en 18952
+[17:30, 02/09/2024] Cierro: Largos en 18924
+
+[10:10, 03/09/2024] Abro: Largos en 18962
+[11:49, 03/09/2024] Cierro: Largos en 18850
+
+[15:41, 03/09/2024] Abro: Cortos en 18815
+[17:32, 03/09/2024] Cierro: Cortos en 18750
+
+[09:32, 04/09/2024] Abro: Cortos en 18581
+[11:46, 04/09/2024] Cierro: Cortos en 18640
+
+[15:45, 04/09/2024] Abro: Largos en 18614
+[09:28, 04/09/2024] Cierro: Largos en 18441
+
+[09:28, 04/09/2024] Abro: Cortos en 18441
+[11:42, 06/09/2024] Cierro: Cortos en 18469
+
+[11:42, 06/09/2024] Abro: Largos en 18469
+[13:15, 06/09/2024] Cierro: Largos en 18490
+
+[14:50, 06/09/2024] Abro: Largos en 18543
+[16:46, 06/09/2024] Cierro: Largos en 18366
+
+[16:46, 06/09/2024] Abro: Cortos en 18366
+[11:24, 09/09/2024] Cierro: Cortos en 18439
+
+[11:24, 09/09/2024] Abro: Largos en 18439
+[14:27, 09/09/2024] Cierro: Largos en 18369
+
+[14:27, 09/09/2024] Abro: Cortos en 18369
+[09:31, 11/09/2024] Cierro: Cortos en 18356
+
+[09:31, 11/09/2024] Abro: Largos en 18356
+[10:42, 11/09/2024] Cierro: Largos en 18294
+
+[16:17, 11/09/2024] Abro: Cortos en 18240
+[11:13, 12/09/2024] Cierro: Cortos en 18571
+
+[11:13, 12/09/2024] Abro: Largos en 18571
+[15:44, 16/09/2024] Cierro: Largos en 18611
+
+[16:29, 16/09/2024] Abro: Largos en 18647
+[15:49, 20/09/2024] Cierro: Largos en 18753
+
+[14:08, 23/09/2024] Abro: Largos en 18823
+[16:48, 23/09/2024] Cierro: Largos en 18823
+
+[12:55, 24/09/2024] Abro: Largos en 18982
+[12:46, 30/09/2024] Cierro: Largos en 19370
+
+[15:53, 01/10/2024] Abro: Largos en 19273
+[09:23, 02/10/2024] Cierro: Largos en 19194
+
+[15:11, 03/10/2024] Abro: Largos en 19116
+[09:49, 03/10/2024] Cierro: Largos en 18998
+
+[10:36, 03/10/2024] Abro: Cortos en 18989
+[12:50, 03/10/2024] Cierro: Cortos en 19071
+
+[15:00, 04/10/2024] Abro: Largos en 19170
+[17:33, 07/10/2024] Cierro: Largos en 19094
+
+[13:05, 09/10/2024] Abro: Largos en 19120
+[09:24, 10/10/2024] Cierro: Largos en 19208
+
+[13:42, 10/10/2024] Abro: Largos en 19257
+[11:26, 11/10/2024] Cierro: Largos en 19227
+
+[15:37, 11/10/2024] Abro: Largos en 19272
+[17:29, 11/10/2024] Cierro: Largos en 19353
+
+[09:08, 14/10/2024] Abro: Largos en 19415
+[11:03, 15/10/2024] Cierro: Largos en 19536
+
+[11:03, 15/10/2024] Abro: Cortos en 19536
+[13:33, 15/10/2024] Cierro: Cortos en 19560
+
+[13:33, 15/10/2024] Abro: Largos en 19560
+[15:27, 18/10/2024] Cierro: Largos en 19638
+
+[16:30, 18/10/2024] Abro: Largos en 19646
+[11:59, 21/10/2024] Cierro: Largos en 19559
+
+[13:54, 22/10/2024] Abro: Largos en 19435
+[10:29, 23/10/2024] Cierro: Largos en 19410
+
+[11:17, 23/10/2024] Abro: Largos en 19434
+[09:19, 25/10/2024] Cierro: Largos en 19405
+
+[11:14, 25/10/2024] Abro: Largos en 19480
+[12:26, 28/10/2024] Cierro: Largos en 19440
+
+[16:13, 28/10/2024] Abro: Largos en 19515
+[11:18, 29/10/2024] Cierro: Largos en 19591
+
+[12:11, 30/10/2024] Abro: Cortos en 19323
+[12:36, 30/10/2024] Cierro: Cortos en 19293
+
+[14:58, 30/10/2024] Abro: Largos en 19302
+[15:57, 30/10/2024] Cierro: Largos en 19315
+
+[16:11, 30/10/2024] Abro: Cortos en 19299
+[09:14, 31/10/2024] Cierro: Cortos en 19129
+
+[12:33, 31/10/2024] Abro: Largos en 19153
+[12:52, 31/10/2024] Cierro: Largos en 19158
+
+[13:15, 31/10/2024] Abro: Largos en 19166
+[15:19, 31/10/2024] Cierro: Largos en 19097
+
+[17:29, 31/10/2024] Abro: Largos en 19057
+[10:30, 01/11/2024] Cierro: Largos en 19160
+
+[11:00, 01/11/2024] Abro: Largos en 19162
+[09:39, 05/11/2024] Cierro: Largos en 19135
+
+[13:58, 05/11/2024] Abro: Largos en 19182
+[15:57, 05/11/2024] Cierro: Largos en 19182
+
+[09:06, 06/11/2024] Abro: Largos en 19404
+[11:03, 06/11/2024] Cierro: Largos en 19440
+
+[11:47, 06/11/2024] Abro: Largos en 19436
+[15:13, 06/11/2024] Cierro: Largos en 19143
+
+[16:51, 06/11/2024] Abro: Cortos en 19024
+[17:31, 06/11/2024] Cierro: Cortos en 19037
+
+[09:20, 07/11/2024] Abro: Largos en 19235
+[15:30, 07/11/2024] Cierro: Largos en 19381
+
+[15:37, 07/11/2024] Abro: Largos en 19371
+[17:21, 07/11/2024] Cierro: Largos en 19377
+
+[09:24, 11/11/2024] Abro: Largos en 19439
+[16:00, 11/11/2024] Cierro: Largos en 19490
+
+[14:53, 13/11/2024] Abro: Cortos en 18991
+[15:47, 13/11/2024] Cierro: Cortos en 18931
+
+[16:16, 13/11/2024] Abro: Cortos en 18881
+[16:50, 13/11/2024] Cierro: Cortos en 18905
+
+[11:38, 14/11/2024] Abro: Largos en 19231
+[10:36, 18/11/2024] Cierro: Largos en 19160
+
+[15:15, 18/11/2024] Abro: Largos en 19117
+[10:26, 19/11/2024] Cierro: Largos en 18994
+
+[10:54, 19/11/2024] Abro: Largos en 18954
+[15:16, 19/11/2024] Cierro: Largos en 18868
+
+[16:55, 19/11/2024] Abro: Largos en 19003
+[10:58, 20/11/2024] Cierro: Largos en 19134
+
+[10:58, 20/11/2024] Abro: Cortos en 19134
+[12:33, 20/11/2024] Cierro: Cortos en 19112
+
+[14:22, 20/11/2024] Abro: Cortos en 19150
+[17:03, 20/11/2024] Cierro: Cortos en 19057
+
+[09:46, 21/11/2024] Abro: Largos en 18983
+[10:30, 21/11/2024] Cierro: Largos en 18905
+
+[11:42, 21/11/2024] Abro: Largos en 18991
+[14:20, 21/11/2024] Cierro: Largos en 19092
+
+[15:55, 21/11/2024] Abro: Largos en 19060
+[19:09, 22/11/2024] Cierro: Largos en 19319
+
+[11:57, 25/11/2024] Abro: Cortos en 19393
+[13:53, 25/11/2024] Cierro: Cortos en 19389
+
+[14:27, 25/11/2024] Abro: Largos en 19405
+[16:35, 26/11/2024] Cierro: Largos en 19281
+
+[16:35, 26/11/2024] Abro: Cortos en 19281
+[17:30, 26/11/2024] Cierro: Cortos en 19305
+
+[17:30, 26/11/2024] Abro: Largos en 19305
+[14:49, 29/11/2024] Cierro: Largos en 19461
+
+[17:30, 29/11/2024] Abro: Largos en 19628
+[14:54, 02/12/2024] Cierro: Largos en 19892
+
+[16:00, 02/12/2024] Abro: Cortos en 19819
+[09:22, 03/12/2024] Cierro: Cortos en 19987
+
+[10:10, 03/12/2024] Abro: Largos en 19993
+[13:54, 03/12/2024] Cierro: Largos en 19969
+
+[16:51, 03/12/2024] Abro: Largos en 19991
+[16:44, 04/12/2024] Cierro: Largos en 20236
+
+[12:53, 05/12/2024] Abro: Largos en 20315
+[13:43, 13/12/2024] Cierro: Largos en 20456
+
+[13:50, 13/12/2024] Abro: Cortos en 20447
+[16:11, 13/12/2024] Cierro: Cortos en 20404
+
+[10:35, 16/12/2024] Abro: Cortos en 20348
+[14:54, 16/12/2024] Cierro: Cortos en 20341
+
+[14:54, 16/12/2024] Abro: Largos en 20341
+[11:37, 19/12/2024] Cierro: Largos en 20023
+
+[11:46, 19/12/2024] Abro: Cortos en 20001
+[13:30, 19/12/2024] Cierro: Cortos en 20052
+
+[13:30, 19/12/2024] Abro: Largos en 20052
+[14:08, 19/12/2024] Cierro: Largos en 20058
