@@ -1,3 +1,5 @@
+// --- INICIO MES OPERATIVO ENERO 2024 --- //
+
 [10:30, 18/12/2023] Abro: Largos en 16737
 [11:00, 21/12/2023] Cierro: Largos en 16660
 
@@ -52,6 +54,8 @@
 [09:10, 19/01/2024] Abro: Cortos en 16627
 [15:58, 19/01/2024] Cierro: Cortos en 16549
 
+// --- INICIO MES OPERATIVO FEBRERO 2024 --- //
+
 [09:03, 22/01/2024] Abro: Cortos en 16685
 [15:19, 23/01/2024] Cierro: Cortos en 16637
 
@@ -78,6 +82,8 @@
 
 [13:47, 15/02/2024] Abro: Largos en 17064
 [17:16, 19/02/2024] Cierro: Largos en 17095
+
+// --- INICIO MES OPERATIVO MARZO 2024 --- //
 
 [16:58, 20/02/2024] Abro: Largos en 17075
 [15:03, 21/02/2024] Cierro: Largos en 17093
@@ -114,6 +120,8 @@
 
 [10:35, 19/03/2024] Abro: Cortos en 17959
 [11:15, 19/03/2024] Cierro: Cortos en 17974
+
+// --- INICIO MES OPERATIVO ABRIL 2024 --- //
 
 [13:48, 19/03/2024] Abro: Largos en 17964
 [09:09, 20/03/2024] Cierro: Largos en 17978
@@ -160,6 +168,8 @@
 [17:28, 15/04/2024] Abro: Cortos en 17999
 [10:54, 16/04/2024] Cierro: Cortos en 17765
 
+// --- INICIO MES OPERATIVO MAYO 2024 --- //
+
 [11:50, 17/04/2024] Abro: Largos en 17872
 [14:20, 24/04/2024] Cierro: Largos en 18180
 
@@ -189,6 +199,8 @@
 
 [10:14, 15/05/2024] Abro: Largos en 18790
 [16:22, 15/05/2024] Cierro: Largos en 18839
+
+// --- INICIO MES OPERATIVO JUNIO 2024 --- //
 
 [17:30, 15/05/2024] Abro: Largos en 18875
 [16:27, 20/05/2024] Cierro: Largos en 18761
@@ -280,6 +292,8 @@
 [16:55, 18/06/2024] Abro: Largos en 18121
 [17:35, 18/06/2024] Cierro: Largos en 18123
 
+// --- INICIO MES OPERATIVO JULIO 2024 --- //
+
 [09:25, 19/06/2024] Abro: Largos en 18083
 [11:14, 21/06/2024] Cierro: Largos en 18153
 
@@ -327,6 +341,8 @@
 
 [17:04, 15/07/2024] Abro: Largos en 18613
 [09:40, 19/07/2024] Cierro: Largos en 18217
+
+// --- INICIO MES OPERATIVO AGOSTO 2024 --- //
 
 [16:30, 19/07/2024] Abro: Cortos en 18201
 [09:23, 22/07/2024] Cierro: Cortos en 18243
@@ -397,6 +413,8 @@
 [17:22, 14/08/2024] Abro: Largos en 17871
 [11:09, 15/08/2024] Cierro: Largos en 17953
 
+// --- INICIO MES OPERATIVO SEPTIEMBRE 2024 --- //
+
 [14:57, 15/08/2024] Abro: Largos en 18142
 [12:25, 20/08/2024] Cierro: Largos en 18408
 
@@ -457,6 +475,8 @@
 [11:13, 12/09/2024] Abro: Largos en 18571
 [15:44, 16/09/2024] Cierro: Largos en 18611
 
+// --- INICIO MES OPERATIVO OCTUBRE 2024 --- //
+
 [16:29, 16/09/2024] Abro: Largos en 18647
 [15:49, 20/09/2024] Cierro: Largos en 18753
 
@@ -495,6 +515,8 @@
 
 [13:33, 15/10/2024] Abro: Largos en 19560
 [15:27, 18/10/2024] Cierro: Largos en 19638
+
+// --- INICIO MES OPERATIVO NOVIEMBRE 2024 --- //
 
 [16:30, 18/10/2024] Abro: Largos en 19646
 [11:59, 21/10/2024] Cierro: Largos en 19559
@@ -568,6 +590,8 @@
 [10:54, 19/11/2024] Abro: Largos en 18954
 [15:16, 19/11/2024] Cierro: Largos en 18868
 
+// --- INICIO MES OPERATIVO DICIEMBRE 2024 --- //
+
 [16:55, 19/11/2024] Abro: Largos en 19003
 [10:58, 20/11/2024] Cierro: Largos en 19134
 
@@ -627,3 +651,1068 @@
 
 [13:30, 19/12/2024] Abro: Largos en 20052
 [14:08, 19/12/2024] Cierro: Largos en 20058
+
+// --- INICIO MES OPERATIVO ENERO 2025 --- //
+
+[16:58, 19/12/2024] Abro: Cortos en 19988
+[15:08, 20/12/2024] Cierro: Cortos en 19718
+
+[15:40, 20/12/2024] Abro: Largos en 19768
+[13:00, 23/12/2024] Cierro: Largos en 19847
+
+[13:00, 23/12/2024] Abro: Cortos en 19847
+[14:11, 23/12/2024] Cierro: Cortos en 19878
+
+[12:21, 02/01/2025] Abro: Cortos en 19850
+[13:04, 02/01/2025] Cierro: Cortos en 19922
+
+[12:43, 03/01/2025] Abro: Largos en 19958
+[11:20, 06/01/2025] Cierro: Largos en 19974
+
+[12:21, 06/01/2025] Abro: Largos en 20107
+[16:22, 10/01/2025] Cierro: Largos en 20269
+
+[17:30, 10/01/2025] Abro: Largos en 20221
+[10:26, 13/01/2025] Cierro: Largos en 20059
+
+[13:35, 13/01/2025] Abro: Largos en 20122
+[11:07, 16/01/2025] Cierro: Largos en 20583
+
+[12:54, 16/01/2025] Abro: Largos en 20623
+[17:20, 16/01/2025] Cierro: Largos en 20609
+
+// --- INICIO MES OPERATIVO FEBRERO 2025 --- //
+
+[10:00, 17/01/2025] Abro: Largos en 20799
+[12:52, 21/01/2025] Cierro: Largos en 20974
+
+[17:00, 21/01/2025] Abro: Largos en 21010
+[11:40, 22/01/2025] Cierro: Largos en 21284
+
+[12:01, 22/01/2025] Abro: Largos en 21290
+[09:57, 23/01/2025] Cierro: Largos en 21263
+
+[11:24, 23/01/2025] Abro: Largos en 21316
+[15:17, 24/01/2025] Cierro: Largos en 21412
+
+[17:05, 24/01/2025] Abro: Largos en 21369
+[09:40, 27/01/2025] Cierro: Largos en 21121
+
+[13:31, 27/01/2025] Abro: Largos en 21189
+[14:00, 29/01/2025] Cierro: Largos en 21591
+
+[15:55, 29/01/2025] Abro: Largos en 21630
+[10:04, 03/02/2025] Cierro: Largos en 21397
+
+[13:26, 03/02/2025] Abro: Largos en 21365
+[15:53, 03/02/2025] Cierro: Largos en 21324
+
+[16:55, 03/02/2025] Abro: Largos en 21406
+[13:34, 07/02/2025] Cierro: Largos en 21900
+
+[09:05, 10/02/2025] Abro: Largos en 21847
+[14:28, 11/02/2025] Cierro: Largos en 21976
+
+[15:48, 11/02/2025] Abro: Largos en 21975
+[17:34, 11/02/2025] Cierro: Largos en 22030
+
+[09:13, 12/02/2025] Abro: Largos en 22073
+[13:10, 13/02/2025] Cierro: Largos en 22489
+
+[16:43, 13/02/2025] Abro: Largos en 22540
+[17:24, 14/02/2025] Cierro: Largos en 22470
+
+[10:47, 17/02/2025] Abro: Largos en 22675
+[10:15, 18/02/2025] Cierro: Largos en 22747
+
+[10:48, 18/02/2025] Abro: Cortos en 22734
+[11:16, 18/02/2025] Cierro: Cortos en 22760
+
+[11:16, 18/02/2025] Abro: Largos en 22760
+[11:25, 19/02/2025] Cierro: Largos en 22845
+
+[11:17, 19/02/2025] Abro: Cortos en 22839
+[15:41, 19/02/2025] Cierro: Cortos en 22452
+
+// --- INICIO MES OPERATIVO MARZO 2025 --- //
+
+[16:12, 19/02/2025] Abro: Largos en 22482
+[14:53, 20/02/2025] Cierro: Largos en 22467
+
+[15:23, 20/02/2025] Abro: Cortos en 22473
+[16:04, 20/02/2025] Cierro: Cortos en 22387
+
+[09:30, 21/02/2025] Abro: Largos en 22321
+[16:00, 21/02/2025] Cierro: Largos en 22244
+
+[16:00, 21/02/2025] Abro: Cortos en 22244
+[17:30, 21/02/2025] Cierro: Cortos en 22264
+
+[09:22, 24/02/2025] Abro: Cortos en 22334
+[09:54, 24/02/2025] Cierro: Cortos en 22377
+
+[12:35, 24/02/2025] Abro: Largos en 22502
+[15:35, 24/02/2025] Cierro: Largos en 22411
+
+[15:58, 24/02/2025] Abro: Cortos en 22304
+[10:17, 25/02/2025] Cierro: Cortos en 22421
+
+[10:17, 25/02/2025] Abro: Largos en 22421
+[11:37, 25/02/2025] Cierro: Largos en 22444
+
+[12:32, 25/02/2025] Abro: Largos en 22447
+[12:32, 25/02/2025] Cierro: Largos en 22411
+
+[16:37, 25/02/2025] Abro: Cortos en 22388
+[09:20, 26/02/2025] Cierro: Cortos en 22584
+
+[09:20, 26/02/2025] Abro: Largos en 22584
+[15:08, 26/02/2025] Cierro: Largos en 22744
+
+[15:10, 26/02/2025] Abro: Cortos en 22728
+[16:00, 26/02/2025] Cierro: Cortos en 22732
+
+[16:06, 26/02/2025] Abro: Largos en 22789
+[09:39, 27/02/2025] Cierro: Largos en 22552
+
+[09:39, 27/02/2025] Abro: Cortos en 22552
+[10:00, 27/02/2025] Cierro: Cortos en 22531
+
+[10:03, 27/02/2025] Abro: Largos en 22549
+[12:51, 27/02/2025] Cierro: Largos en 22652
+
+[13:02, 27/02/2025] Abro: Largos en 22668
+[14:24, 27/02/2025] Cierro: Largos en 22636
+
+[14:31, 27/02/2025] Abro: Cortos en 22620
+[15:11, 27/02/2025] Cierro: Cortos en 22548
+
+[15:55, 27/02/2025] Abro: Cortos en 22470
+[16:18, 27/02/2025] Cierro: Cortos en 22477
+
+[16:37, 27/02/2025] Abro: Largos en 22512
+[09:09, 28/02/2025] Cierro: Largos en 22387
+
+[09:09, 28/02/2025] Abro: Cortos en 22387
+[10:16, 28/02/2025] Cierro: Cortos en 22479
+
+[10:16, 28/02/2025] Abro: Largos en 22479
+[11:51, 28/02/2025] Cierro: Largos en 22480
+
+[12:26, 28/02/2025] Abro: Cortos en 22486
+[14:47, 28/02/2025] Cierro: Cortos en 22424
+
+[09:06, 03/03/2025] Abro: Largos en 22743
+[11:31, 04/03/2025] Cierro: Largos en 22666
+
+[14:03, 04/03/2025] Abro: Cortos en 22521
+[09:39, 05/03/2025] Cierro: Cortos en 23007
+
+[09:39, 05/03/2025] Abro: Largos en 23007
+[13:11, 05/03/2025] Cierro: Largos en 23081
+
+[13:30, 05/03/2025] Abro: Largos en 23064
+[14:49, 05/03/2025] Cierro: Largos en 23108
+
+[09:04, 06/03/2025] Abro: Largos en 23284
+[11:00, 06/03/2025] Cierro: Largos en 23155
+
+[11:00, 06/03/2025] Abro: Cortos en 23155
+[12:48, 06/03/2025] Cierro: Cortos en 23229
+
+[12:48, 06/03/2025] Abro: Largos en 23229
+[14:19, 06/03/2025] Cierro: Largos en 23100
+
+[14:19, 06/03/2025] Abro: Cortos en 23100
+[14:19, 06/03/2025] Cierro: Cortos en 23188
+
+[15:50, 06/03/2025] Abro: Largos en 23260
+[11:44, 07/03/2025] Cierro: Largos en 23034
+
+[13:28, 07/03/2025] Abro: Cortos en 22992
+[15:50, 07/03/2025] Cierro: Cortos en 23041
+
+[15:50, 07/03/2025] Abro: Largos en 23041
+[09:49, 10/03/2025] Cierro: Largos en 22912
+
+[09:49, 10/03/2025] Abro: Cortos en 22912
+[14:08, 10/03/2025] Cierro: Cortos en 22721
+
+[17:24, 10/03/2025] Abro: Cortos en 22591
+[17:30, 11/03/2025] Cierro: Cortos en 22316
+
+[09:03, 12/03/2025] Abro: Cortos en 22517
+[09:38, 12/03/2025] Cierro: Cortos en 22532
+
+[16:07, 12/03/2025] Abro: Cortos en 22530
+[09:54, 13/03/2025] Cierro: Cortos en 22536
+
+[11:01, 13/03/2025] Abro: Largos en 22735
+[12:00, 13/03/2025] Cierro: Largos en 22625
+
+[13:09, 13/03/2025] Abro: Cortos en 22481
+[14:24, 13/03/2025] Cierro: Cortos en 22590
+
+[13:09, 14/03/2025] Abro: Cortos en 22503
+[09:22, 14/03/2025] Cierro: Cortos en 22579
+
+[09:22, 14/03/2025] Abro: Largos en 22579
+[10:24, 14/03/2025] Cierro: Largos en 22660
+
+[11:59, 14/03/2025] Abro: Largos en 22917
+[15:07, 14/03/2025] Cierro: Largos en 22945
+
+[15:36, 14/03/2025] Abro: Largos en 22893
+[16:32, 14/03/2025] Cierro: Largos en 23007
+
+[10:24, 17/03/2025] Abro: Cortos en 22956
+[14:18, 17/03/2025] Cierro: Cortos en 23040
+
+[14:18, 17/03/2025] Abro: Largos en 23040
+[12:50, 18/03/2025] Cierro: Largos en 23427
+
+[15:14, 18/03/2025] Abro: Cortos en 23307
+[15:36, 18/03/2025] Cierro: Cortos en 23380
+
+[15:36, 18/03/2025] Abro: Largos en 23380
+[13:32, 19/03/2025] Cierro: Largos en 23233
+
+// --- INICIO MES OPERATIVO ABRIL 2025 --- //
+
+[10:17, 20/03/2025] Abro: Cortos en 23102
+[12:40, 20/03/2025] Cierro: Cortos en 22936
+
+[12:43, 20/03/2025] Abro: Largos en 22969
+[14:23, 21/03/2025] Cierro: Largos en 22743
+
+[09:54, 25/03/2025] Abro: Largos en 22966
+[16:16, 25/03/2025] Cierro: Largos en 23052
+
+[10:46, 26/03/2025] Abro: Cortos en 22910
+[11:43, 26/03/2025] Cierro: Cortos en 22973
+
+[10:24, 27/03/2025] Abro: Largos en 22628
+[13:00, 27/03/2025] Cierro: Largos en 22640
+
+[14:24, 27/03/2025] Abro: Cortos en 22567
+[15:28, 27/03/2025] Cierro: Cortos en 22633
+
+[10:40, 31/03/2025] Abro: Cortos en 22217
+[13:41, 31/03/2025] Cierro: Cortos en 22051
+
+[15:04, 31/03/2025] Abro: Largos en 22074
+[17:26, 31/03/2025] Cierro: Largos en 22174
+
+[11:24, 01/04/2025] Abro: Largos en 22509
+[12:12, 01/04/2025] Cierro: Largos en 22417
+
+[09:03, 02/04/2025] Abro: Largos en 22464
+[14:13, 02/04/2025] Cierro: Largos en 22178
+
+[14:13, 02/04/2025] Abro: Cortos en 22178
+[15:12, 02/04/2025] Cierro: Cortos en 22211
+
+[15:36, 02/04/2025] Abro: Largos en 22239
+[12:48, 03/04/2025] Cierro: Largos en 21890
+
+[12:48, 03/04/2025] Abro: Cortos en 21890
+[17:30, 03/04/2025] Cierro: Cortos en 21700
+
+[09:21, 04/04/2025] Abro: Cortos en 21560
+[11:53, 04/04/2025] Cierro: Cortos en 21156
+
+[12:09, 04/04/2025] Abro: Cortos en 20990
+[14:00, 04/04/2025] Cierro: Cortos en 20840
+
+[14:00, 04/04/2025] Abro: Largos en 20840
+[16:48, 04/04/2025] Cierro: Largos en 20510
+
+[17:12, 07/04/2025] Abro: Largos en 20747
+[15:36, 07/04/2025] Cierro: Largos en 19620
+
+[16:00, 07/04/2025] Abro: Largos en 19939
+[09:06, 09/04/2025] Cierro: Largos en 19830
+
+[10:36, 09/04/2025] Abro: Cortos en 19644
+[15:24, 09/04/2025] Cierro: Cortos en 19639
+
+[15:58, 09/04/2025] Abro: Largos en 19813
+[17:33, 09/04/2025] Cierro: Largos en 19650
+
+[09:08, 10/04/2025] Abro: Largos en 21272
+[09:57, 10/04/2025] Cierro: Largos en 20904
+
+[09:57, 10/04/2025] Abro: Cortos en 20849
+[12:48, 10/04/2025] Cierro: Cortos en 20808
+
+[15:25, 10/04/2025] Abro: Largos en 20747
+[14:34, 15/04/2025] Cierro: Largos en 21094
+
+[17:18, 15/04/2025] Abro: Largos en 21248
+[09:36, 16/04/2025] Cierro: Largos en 21029
+
+[14:21, 16/04/2025] Abro: Largos en 21192
+[10:32, 17/04/2025] Cierro: Largos en 21253
+
+[16:38, 17/04/2025] Abro: Cortos en 21168
+[17:26, 17/04/2025] Cierro: Cortos en 21198
+
+// --- INICIO MES OPERATIVO MAYO 2025 --- //
+
+[11:55, 22/04/2025] Abro: Largos en 21166
+[13:10, 22/04/2025] Cierro: Largos en 21070
+
+[15:29, 22/04/2025] Abro: Largos en 21119
+[09:30, 24/04/2025] Cierro: Largos en 21808
+
+[10:31, 24/04/2025] Abro: Cortos en 21740
+[12:02, 24/04/2025] Cierro: Cortos en 21867
+
+[12:02, 24/04/2025] Abro: Largos en 21867
+[12:18, 28/04/2025] Cierro: Largos en 22415
+
+[14:16, 28/04/2025] Abro: Largos en 22366
+[17:30, 28/04/2025] Cierro: Largos en 22256
+
+[15:18, 29/04/2025] Abro: Cortos en 22343
+[09:48, 30/04/2025] Cierro: Cortos en 22556
+
+[09:48, 30/04/2025] Abro: Largos en 22556
+[15:15, 30/04/2025] Cierro: Largos en 22316
+
+[15:23, 30/04/2025] Abro: Cortos en 22344
+[16:44, 30/04/2025] Cierro: Cortos en 22389
+
+[09:06, 02/05/2025] Abro: Largos en 22771
+[09:59, 02/05/2025] Cierro: Largos en 22827
+
+[14:01, 02/05/2025] Abro: Cortos en 22893
+[14:48, 02/05/2025] Cierro: Cortos en 23012
+
+[15:29, 02/05/2025] Abro: Largos en 23025
+[09:55, 06/05/2025] Cierro: Largos en 23255
+
+[10:54, 06/05/2025] Abro: Cortos en 23083
+[11:06, 06/05/2025] Cierro: Cortos en 23024
+
+[11:17, 06/05/2025] Abro: Cortos en 22938
+[12:00, 06/05/2025] Cierro: Cortos en 23039
+
+[13:23, 06/05/2025] Abro: Largos en 23162
+[11:50, 07/05/2025] Cierro: Largos en 23225
+
+[13:21, 07/05/2025] Abro: Largos en 23232
+[14:55, 07/05/2025] Cierro: Largos en 23163
+
+[15:27, 07/05/2025] Abro: Largos en 23118
+[15:07, 08/05/2025] Cierro: Largos en 23302
+
+[09:12, 09/05/2025] Abro: Largos en 23521
+[16:00, 12/05/2025] Cierro: Largos en 23477
+
+[10:07, 13/05/2025] Abro: Largos en 23554
+[10:07, 14/05/2025] Cierro: Largos en 23607
+
+[13:33, 14/05/2025] Abro: Largos en 23557
+[17:15, 14/05/2025] Cierro: Largos en 23494
+
+[12:06, 15/05/2025] Abro: Largos en 23463
+[14:56, 16/05/2025] Cierro: Largos en 23719
+
+// --- INICIO MES OPERATIVO JUNIO 2025 --- //
+
+[16:32, 19/05/2025] Abro: Largos en 23826
+[14:02, 21/05/2025] Cierro: Largos en 23997
+
+[10:12, 22/05/2025] Abro: Cortos en 23901
+[10:34, 22/05/2025] Cierro: Cortos en 23965
+
+[11:47, 22/05/2025] Abro: Cortos en 23930
+[17:20, 22/05/2025] Cierro: Cortos en 24009
+
+[09:18, 23/05/2025] Abro: Largos en 24070
+[12:05, 23/05/2025] Cierro: Largos en 24064
+
+[14:20, 23/05/2025] Abro: Cortos en 23372
+[15:44, 23/05/2025] Cierro: Cortos en 23587
+
+[12:08, 26/05/2025] Abro: Largos en 24030
+[14:55, 28/05/2025] Cierro: Largos en 24083
+
+[17:07, 28/05/2025] Abro: Largos en 24096
+[10:29, 29/05/2025] Cierro: Largos en 24010
+
+[11:18, 30/05/2025] Abro: Largos en 24134
+[17:02, 30/05/2025] Cierro: Largos en 24010
+
+[09:09, 02/06/2025] Abro: Cortos en 23938
+[13:22, 02/06/2025] Cierro: Cortos en 23924
+
+[16:24, 02/06/2025] Abro: Cortos en 23877
+[16:48, 02/06/2025] Cierro: Cortos en 23931
+
+[17:30, 02/06/2025] Abro: Largos en 23946
+[09:02, 03/06/2025] Cierro: Largos en 24028
+
+[16:17, 03/06/2025] Abro: Largos en 24013
+[13:20, 04/06/2025] Cierro: Largos en 24225
+
+[14:46, 04/06/2025] Abro: Largos en 24203
+[15:09, 04/06/2025] Cierro: Largos en 24195
+
+[16:00, 04/06/2025] Abro: Largos en 24173
+[10:55, 05/06/2025] Cierro: Largos en 24366
+
+[14:21, 05/06/2025] Abro: Largos en 24385
+[16:07, 05/06/2025] Cierro: Largos en 24253
+
+[11:55, 06/06/2025] Abro: Largos en 24304
+[10:00, 12/06/2025] Cierro: Largos en 23654
+
+[09:57, 13/06/2025] Abro: Largos en 23523
+[11:12, 17/06/2025] Cierro: Largos en 23425
+
+[10:06, 18/06/2025] Abro: Largos en 23493
+[11:40, 18/06/2025] Cierro: Largos en 23429
+
+[14:28, 18/06/2025] Abro: Cortos en 23361
+[16:06, 18/06/2025] Cierro: Cortos en 23332
+
+[16:41, 18/06/2025] Abro: Cortos en 23400
+[16:59, 18/06/2025] Cierro: Cortos en 23370
+
+[09:11, 19/06/2025] Abro: Largos en 23210
+[09:39, 19/06/2025] Cierro: Largos en 23159
+
+[09:46, 19/06/2025] Abro: Cortos en 23138
+[17:30, 19/06/2025] Cierro: Cortos en 23057
+
+// --- INICIO MES OPERATIVO JULIO 2025 --- //
+
+[13:17, 20/06/2025] Abro: Cortos en 23321
+[09:03, 23/06/2025] Cierro: Cortos en 23216
+
+[09:24, 23/06/2025] Abro: Largos en 23308
+[10:08, 24/06/2025] Cierro: Largos en 23640
+
+[10:49, 24/06/2025] Abro: Largos en 23740
+[09:06, 27/06/2025] Cierro: Largos en 23817
+
+[12:02, 27/06/2025] Abro: Cortos en 23824
+[15:53, 27/06/2025] Cierro: Cortos en 23880
+
+[15:53, 27/06/2025] Abro: Largos en 23880
+[14:34, 30/06/2025] Cierro: Largos en 23974
+
+[15:42, 30/06/2025] Abro: Largos en 23912
+[16:47, 30/06/2025] Cierro: Largos en 23945
+
+[11:51, 01/07/2025] Abro: Largos en 23768
+[12:07, 01/07/2025] Cierro: Largos en 23818
+
+[12:14, 01/07/2025] Abro: Cortos en 23823
+[10:17, 02/07/2025] Cierro: Cortos en 23774
+
+[14:16, 02/07/2025] Abro: Cortos en 23719
+[11:12, 03/07/2025] Cierro: Cortos en 23823
+
+[12:10, 03/07/2025] Abro: Largos en 23799
+[14:48, 03/07/2025] Cierro: Largos en 23851
+
+[15:38, 03/07/2025] Abro: Largos en 23876
+[12:42, 04/07/2025] Cierro: Largos en 23758
+
+[15:37, 04/07/2025] Abro: Cortos en 23794
+[15:41, 04/07/2025] Cierro: Cortos en 23823
+
+[15:50, 04/07/2025] Abro: Largos en 23825
+[16:01, 09/07/2025] Cierro: Largos en 24565
+
+[09:28, 10/07/2025] Abro: Largos en 24630
+[14:13, 10/07/2025] Cierro: Largos en 24550
+
+[17:26, 10/07/2025] Abro: Largos en 24466
+[15:52, 11/07/2025] Cierro: Largos en 24240
+
+[17:24, 11/07/2025] Abro: Cortos en 24249
+[09:03, 14/07/2025] Cierro: Cortos en 24037
+
+[13:57, 14/07/2025] Abro: Largos en 24031
+[17:15, 15/07/2025] Cierro: Largos en 24091
+
+[17:15, 15/07/2025] Abro: Cortos en 24091
+[13:47, 16/07/2025] Cierro: Cortos en 24159
+
+[13:47, 16/07/2025] Abro: Largos en 24159
+[16:49, 16/07/2025] Cierro: Largos en 24142
+
+[09:36, 17/07/2025] Abro: Largos en 24283
+[13:32, 17/07/2025] Cierro: Largos en 24200
+
+[13:32, 17/07/2025] Abro: Cortos en 24200
+[15:05, 17/07/2025] Cierro: Cortos en 24250
+
+// --- INICIO MES OPERATIVO AGOSTO 2025 --- //
+
+[09:01, 18/07/2025] Abro: Largos en 24480
+[13:08, 22/07/2025] Cierro: Largos en 24060
+
+[09:43, 23/07/2025] Abro: Largos en 24205
+[10:49, 23/07/2025] Cierro: Largos en 24297
+
+[11:30, 23/07/2025] Abro: Largos en 24231
+[09:03, 24/07/2025] Cierro: Largos en 24505
+
+[09:02, 25/07/2025] Abro: Largos en 24100
+[09:05, 25/07/2025] Cierro: Largos en 24082
+
+[11:16, 25/07/2025] Abro: Largos en 24158
+[16:53, 25/07/2025] Cierro: Largos en 24242
+
+[09:12, 28/07/2025] Abro: Cortos en 24403
+[10:59, 28/07/2025] Cierro: Cortos en 24284
+
+[11:24, 28/07/2025] Abro: Largos en 24250
+[11:54, 28/07/2025] Cierro: Largos en 24308
+
+[14:05, 28/07/2025] Abro: Largos en 24208
+[12:16, 29/07/2025] Cierro: Largos en 24260
+
+[12:20, 29/07/2025] Abro: Largos en 24285
+[13:02, 29/07/2025] Cierro: Largos en 24289
+
+[16:40, 29/07/2025] Abro: Largos en 24254
+[17:29, 29/07/2025] Cierro: Largos en 24201
+
+[12:06, 30/07/2025] Abro: Largos en 24269
+[15:43, 30/07/2025] Cierro: Largos en 24256
+
+[12:20, 31/07/2025] Abro: Cortos en 24304
+[14:02, 31/07/2025] Cierro: Cortos en 24211
+
+[14:02, 31/07/2025] Abro: Largos en 24211
+[15:20, 31/07/2025] Cierro: Largos en 24186
+
+[15:25, 31/07/2025] Abro: Cortos en 24172
+[17:33, 31/07/2025] Cierro: Cortos en 24085
+
+[09:07, 01/08/2025] Abro: Largos en 23791
+[12:59, 01/08/2025] Cierro: Largos en 23600
+
+[14:45, 01/08/2025] Abro: Cortos en 23616
+[15:51, 01/08/2025] Cierro: Cortos en 23422
+
+[09:14, 04/08/2025] Abro: Largos en 23562
+[16:42, 04/08/2025] Cierro: Largos en 23759
+
+[10:02, 05/08/2025] Abro: Largos en 23837
+[10:02, 05/08/2025] Cierro: Largos en 23851
+
+[13:44, 05/08/2025] Abro: Cortos en 23958
+[16:44, 05/08/2025] Cierro: Cortos en 23826
+
+[16:48, 05/08/2025] Abro: Largos en 23788
+[17:14, 05/08/2025] Cierro: Largos en 23858
+
+[13:41, 06/08/2025] Abro: Largos en 23858
+[17:05, 06/08/2025] Cierro: Largos en 23885
+
+[09:04, 07/08/2025] Abro: Largos en 23927
+[09:41, 07/08/2025] Cierro: Largos en 23971
+
+[10:02, 07/08/2025] Abro: Cortos en 24097
+[11:23, 07/08/2025] Cierro: Cortos en 24311
+
+[11:36, 07/08/2025] Abro: Cortos en 24370
+[12:25, 07/08/2025] Cierro: Cortos en 24286
+
+[12:31, 07/08/2025] Abro: Cortos en 24260
+[13:04, 07/08/2025] Cierro: Cortos en 24313
+
+[14:07, 07/08/2025] Abro: Largos en 24302
+[16:02, 07/08/2025] Cierro: Largos en 24267
+
+[10:12, 08/08/2025] Abro: Largos en 24163
+[10:01, 11/08/2025] Cierro: Largos en 24090
+
+[10:01, 11/08/2025] Abro: Cortos en 24090
+[09:33, 12/08/2025] Cierro: Cortos en 24058
+
+[11:57, 12/08/2025] Abro: Largos en 23980
+[14:45, 12/08/2025] Cierro: Largos en 24051
+
+[17:26, 12/08/2025] Abro: Largos en 24058
+[09:03, 13/08/2025] Cierro: Largos en 24164
+
+[09:20, 14/08/2025] Abro: Cortos en 24253
+[09:26, 14/08/2025] Cierro: Cortos en 24266
+
+[09:26, 14/08/2025] Abro: Largos en 24266
+[13:32, 14/08/2025] Cierro: Largos en 24345
+
+[13:32, 14/08/2025] Abro: Cortos en 24345
+[15:04, 14/08/2025] Cierro: Cortos en 24265
+
+[15:36, 14/08/2025] Abro: Cortos en 24323
+[16:07, 14/08/2025] Cierro: Cortos en 24350
+
+[16:18, 14/08/2025] Abro: Cortos en 24353
+[16:31, 14/08/2025] Cierro: Cortos en 24369
+
+[16:31, 14/08/2025] Abro: Largos en 24369
+[09:01, 15/08/2025] Cierro: Largos en 24527
+
+[09:01, 15/08/2025] Abro: Cortos en 24527
+[09:32, 15/08/2025] Cierro: Cortos en 24431
+
+[09:56, 15/08/2025] Abro: Cortos en 24500
+[10:07, 15/08/2025] Cierro: Cortos en 24506
+
+[09:02, 18/08/2025] Abro: Cortos en 24312
+[09:22, 18/08/2025] Cierro: Cortos en 24277
+
+[09:24, 18/08/2025] Abro: Largos en 24280
+[09:36, 18/08/2025] Cierro: Largos en 24265
+
+[10:05, 18/08/2025] Abro: Cortos en 24272
+[15:12, 19/08/2025] Cierro: Cortos en 24422
+
+[15:12, 19/08/2025] Abro: Largos en 24422
+[17:29, 19/08/2025] Cierro: Largos en 24437
+
+// --- INICIO MES OPERATIVO SEPTIEMBRE 2025 (CORREGIDO) --- //
+
+[09:07, 20/08/2025] Abro: Cortos en 24238
+[09:08, 21/08/2025] Cierro: Cortos en 24297
+
+[13:38, 21/08/2025] Abro: Largos en 24190
+[15:59, 21/08/2025] Cierro: Largos en 24242
+
+[10:26, 22/08/2025] Abro: Cortos en 24310
+[10:33, 22/08/2025] Cierro: Cortos en 24319
+
+[16:01, 22/08/2025] Abro: Cortos en 24416
+[09:04, 25/08/2025] Cierro: Cortos en 24243
+
+[10:16, 25/08/2025] Abro: Largos en 24227
+[10:29, 25/08/2025] Cierro: Largos en 24262
+
+[12:37, 25/08/2025] Abro: Cortos en 24320
+[13:06, 25/08/2025] Cierro: Cortos en 24325
+
+[15:28, 25/08/2025] Abro: Cortos en 24365
+[16:10, 25/08/2025] Cierro: Cortos en 24319
+
+[16:43, 25/08/2025] Abro: Largos en 24259
+[17:06, 25/08/2025] Cierro: Largos en 24286
+
+[09:04, 26/08/2025] Abro: Largos en 24127
+[09:13, 26/08/2025] Cierro: Largos en 24042
+
+[09:13, 26/08/2025] Abro: Cortos en 24042
+[09:31, 26/08/2025] Cierro: Cortos en 24083
+
+[09:31, 26/08/2025] Abro: Largos en 24083
+[09:58, 26/08/2025] Cierro: Largos en 24143
+
+[10:05, 26/08/2025] Abro: Largos en 24164
+[14:36, 26/08/2025] Cierro: Largos en 24218
+
+[16:09, 26/08/2025] Abro: Cortos en 24249
+[16:21, 26/08/2025] Cierro: Cortos en 24242
+
+[16:46, 26/08/2025] Abro: Cortos en 24233
+[17:26, 26/08/2025] Cierro: Cortos en 24181
+
+[10:15, 27/08/2025] Abro: Largos en 24095
+[11:11, 27/08/2025] Cierro: Largos en 24110
+
+[11:14, 27/08/2025] Abro: Cortos en 24110
+[11:28, 27/08/2025] Cierro: Cortos en 24120
+
+[13:10, 27/08/2025] Abro: Largos en 24129
+[15:56, 27/08/2025] Cierro: Largos en 24044
+
+[16:37, 27/08/2025] Abro: Largos en 23981
+[09:02, 28/08/2025] Cierro: Largos en 24180
+
+[09:06, 28/08/2025] Abro: Cortos en 24175
+[09:10, 28/08/2025] Cierro: Cortos en 24136
+
+[10:39, 28/08/2025] Abro: Largos en 24085
+[10:55, 28/08/2025] Cierro: Largos en 24077
+
+[12:09, 28/08/2025] Abro: Largos en 24036
+[12:11, 28/08/2025] Cierro: Largos en 24026
+
+[10:47, 29/08/2025] Abro: Largos en 23892
+[15:00, 29/08/2025] Cierro: Largos en 24030
+
+[15:08, 29/08/2025] Abro: Largos en 24035
+[15:59, 29/08/2025] Cierro: Largos en 23989
+
+[09:54, 02/09/2025] Abro: Largos en 23791
+[10:15, 02/09/2025] Cierro: Largos en 23768
+
+[12:18, 02/09/2025] Abro: Largos en 23725
+[14:15, 02/09/2025] Cierro: Largos en 23629
+
+[14:41, 02/09/2025] Abro: Largos en 23560
+[17:08, 02/09/2025] Cierro: Largos en 23508
+
+[17:29, 02/09/2025] Abro: Cortos en 23508
+[09:54, 03/09/2025] Cierro: Cortos en 23567
+
+[10:10, 03/09/2025] Abro: Largos en 23607
+[12:20, 04/09/2025] Cierro: Largos en 23765
+
+[12:20, 04/09/2025] Abro: Cortos en 23765
+[12:51, 04/09/2025] Cierro: Cortos en 23762
+
+[12:51, 04/09/2025] Abro: Largos en 23762
+[09:02, 05/09/2025] Cierro: Largos en 23851
+
+[11:36, 05/09/2025] Abro: Largos en 23821
+[14:02, 05/09/2025] Cierro: Largos en 23802
+
+[09:03, 06/09/2025] Abro: Cortos en 23768
+[09:47, 08/09/2025] Cierro: Cortos en 23786
+
+[09:15, 10/09/2025] Abro: Largos en 23846
+[10:44, 10/09/2025] Cierro: Largos en 23757
+
+[10:44, 10/09/2025] Abro: Cortos en 23757
+[11:27, 10/09/2025] Cierro: Cortos en 23708
+
+[15:55, 10/09/2025] Abro: Largos en 23641
+[16:18, 10/09/2025] Cierro: Largos en 23620
+
+[14:22, 11/09/2025] Abro: Cortos en 23708
+[14:37, 11/09/2025] Cierro: Cortos en 23656
+
+[14:52, 11/09/2025] Abro: Cortos en 23692
+[15:00, 11/09/2025] Cierro: Cortos en 23717
+
+[15:47, 11/09/2025] Abro: Cortos en 23735
+[16:32, 11/09/2025] Cierro: Cortos en 23676
+
+[16:46, 11/09/2025] Abro: Cortos en 23685
+[11:24, 12/09/2025] Cierro: Cortos en 23645
+
+[14:18, 12/09/2025] Abro: Cortos en 23691
+[14:25, 12/09/2025] Cierro: Cortos en 23678
+
+[15:36, 12/09/2025] Abro: Cortos en 23713
+[16:41, 12/09/2025] Cierro: Cortos en 23693
+
+[10:15, 15/09/2025] Abro: Cortos en 23825
+[11:16, 15/09/2025] Cierro: Cortos en 23773
+
+[13:27, 15/09/2025] Abro: Cortos en 23829
+[14:31, 15/09/2025] Cierro: Cortos en 23803
+
+[15:02, 15/09/2025] Abro: Largos en 23752
+[15:16, 15/09/2025] Cierro: Largos en 23736
+
+[15:32, 15/09/2025] Abro: Largos en 23702
+[16:21, 15/09/2025] Cierro: Largos en 23753
+
+[12:02, 16/09/2025] Abro: Largos en 23608
+[12:37, 16/09/2025] Cierro: Largos en 23653
+
+[13:17, 16/09/2025] Abro: Largos en 23600
+[14:03, 16/09/2025] Cierro: Largos en 23604
+
+[15:07, 16/09/2025] Abro: Largos en 23559
+[17:02, 16/09/2025] Cierro: Largos en 23365
+
+[09:03, 17/09/2025] Abro: Largos en 23407
+[09:40, 17/09/2025] Cierro: Largos en 23452
+
+[11:46, 17/09/2025] Abro: Largos en 23346
+[12:33, 17/09/2025] Cierro: Largos en 23342
+
+[12:44, 17/09/2025] Abro: Cortos en 23313
+[15:49, 17/09/2025] Cierro: Cortos en 23443
+
+[17:06, 17/09/2025] Abro: Largos en 23313
+[17:28, 17/09/2025] Cierro: Largos en 23347
+
+[09:06, 18/09/2025] Abro: Cortos en 23568
+[09:15, 18/09/2025] Cierro: Cortos en 23615
+
+[11:32, 18/09/2025] Abro: Cortos en 23642
+[16:27, 18/09/2025] Cierro: Cortos en 23676
+
+[10:11, 19/09/2025] Abro: Cortos en 23784
+[10:33, 19/09/2025] Cierro: Cortos en 23740
+
+[11:02, 19/09/2025] Abro: Largos en 23702
+[11:02, 19/09/2025] Cierro: Largos en 23683
+
+[12:08, 19/09/2025] Abro: Largos en 23608
+[13:12, 19/09/2025] Cierro: Largos en 23632
+
+// --- INICIO MES OPERATIVO OCTUBRE 2025 --- //
+
+[09:12, 19/09/2025] Abro: Cortos en 23652
+[10:21, 23/09/2025] Cierro: Cortos en 23684
+
+[10:40, 23/09/2025] Abro: Largos en 23683
+[12:06, 23/09/2025] Cierro: Largos en 23629
+
+[14:29, 23/09/2025] Abro: Cortos en 23643
+[14:59, 23/09/2025] Cierro: Cortos en 23648
+
+[09:32, 24/09/2025] Abro: Largos en 23501
+[09:48, 24/09/2025] Cierro: Largos en 23565
+
+[13:43, 24/09/2025] Abro: Largos en 23551
+[13:48, 24/09/2025] Cierro: Largos en 23566
+
+[14:01, 24/09/2025] Abro: Cortos en 23623
+[15:07, 24/09/2025] Cierro: Cortos en 23651
+
+[15:43, 24/09/2025] Abro: Cortos en 23694
+[16:01, 24/09/2025] Cierro: Cortos en 23643
+
+[16:32, 24/09/2025] Abro: Cortos en 23702
+[16:49, 24/09/2025] Cierro: Cortos en 23710
+
+[10:00, 25/09/2025] Abro: Largos en 23611
+[11:37, 25/09/2025] Cierro: Largos en 23548
+
+[13:21, 25/09/2025] Abro: Largos en 23402
+[14:00, 25/09/2025] Cierro: Largos en 23415
+
+[16:48, 25/09/2025] Abro: Cortos en 23547
+[17:27, 25/09/2025] Cierro: Cortos en 23516
+
+[10:11, 26/09/2025] Abro: Cortos en 23683
+[10:51, 26/09/2025] Cierro: Cortos en 23612
+
+[14:45, 26/09/2025] Abro: Cortos en 23733
+[16:49, 26/09/2025] Cierro: Cortos en 23693
+
+[17:12, 26/09/2025] Abro: Cortos en 23703
+[09:07, 30/09/2025] Cierro: Cortos en 23781
+
+[17:05, 30/09/2025] Abro: Cortos en 23864
+[17:19, 30/09/2025] Cierro: Cortos en 23862
+
+[11:30, 01/10/2025] Abro: Cortos en 23960
+[11:43, 01/10/2025] Cierro: Cortos en 23971
+
+[12:21, 01/10/2025] Abro: Cortos en 24001
+[13:02, 01/10/2025] Cierro: Cortos en 24012
+
+[13:10, 01/10/2025] Abro: Cortos en 23992
+[15:27, 01/10/2025] Cierro: Cortos en 24017
+
+[16:25, 01/10/2025] Abro: Cortos en 24137
+[10:29, 02/10/2025] Cierro: Cortos en 24404
+
+[10:29, 02/10/2025] Abro: Largos en 24404
+[11:36, 02/10/2025] Cierro: Largos en 24397
+
+[16:21, 02/10/2025] Abro: Cortos en 24405
+[13:08, 06/10/2025] Cierro: Cortos en 24420
+
+[13:08, 06/10/2025] Abro: Largos en 24420
+[12:26, 07/10/2025] Cierro: Largos en 24419
+
+[13:06, 07/10/2025] Abro: Largos en 24437
+[17:26, 07/10/2025] Cierro: Largos en 24384
+
+[11:39, 08/10/2025] Abro: Cortos en 24499
+[12:42, 08/10/2025] Cierro: Cortos en 24499
+
+[12:42, 08/10/2025] Abro: Largos en 24499
+[17:24, 10/10/2025] Cierro: Largos en 24314
+
+[09:52, 14/10/2025] Abro: Largos en 24372
+[09:58, 14/10/2025] Cierro: Largos en 24117
+
+[12:56, 14/10/2025] Abro: Cortos en 24008
+[09:57, 15/10/2025] Cierro: Cortos en 24320
+
+[09:03, 16/10/2025] Abro: Cortos en 24180
+[10:50, 16/10/2025] Cierro: Cortos en 24135
+
+[12:00, 16/10/2025] Abro: Largos en 24209
+[13:58, 16/10/2025] Cierro: Largos en 24182
+
+[16:17, 16/10/2025] Abro: Cortos en 24132
+[17:16, 16/10/2025] Cierro: Cortos en 24263
+
+[17:16, 16/10/2025] Abro: Largos en 24263
+[11:41, 17/10/2025] Cierro: Largos en 23758
+
+// --- INICIO MES OPERATIVO NOVIEMBRE 2025 --- //
+
+[15:52, 17/10/2025] Abro: Largos en 23934
+[13:00, 20/10/2025] Cierro: Largos en 24097
+
+[15:04, 20/10/2025] Abro: Largos en 24184
+[15:06, 27/10/2025] Cierro: Largos en 24280
+
+[09:13, 28/10/2025] Abro: Cortos en 24209
+[15:08, 28/10/2025] Cierro: Cortos en 24270
+
+[16:12, 28/10/2025] Abro: Cortos en 24320
+[09:03, 29/10/2025] Cierro: Cortos en 24259
+
+[14:16, 29/10/2025] Abro: Largos en 24256
+[11:00, 30/10/2025] Cierro: Largos en 24099
+
+[13:35, 30/10/2025] Abro: Largos en 24087
+[17:37, 30/10/2025] Cierro: Largos en 24116
+
+[09:02, 31/10/2025] Abro: Cortos en 24097
+[09:02, 04/11/2025] Cierro: Cortos en 23802
+
+[09:23, 04/11/2025] Abro: Largos en 23754
+[09:35, 04/11/2025] Cierro: Largos en 23797
+
+[10:24, 04/11/2025] Abro: Cortos en 23704
+[11:44, 04/11/2025] Cierro: Cortos en 23768
+
+[14:31, 04/11/2025] Abro: Largos en 23827
+[15:45, 04/11/2025] Cierro: Largos en 23885
+
+[16:00, 04/11/2025] Abro: Cortos en 23940
+[16:13, 04/11/2025] Cierro: Cortos en 23921
+
+[16:13, 04/11/2025] Abro: Largos en 23921
+[16:40, 04/11/2025] Cierro: Largos en 23962
+
+[16:40, 04/11/2024] Abro: Cortos en 23962
+[16:59, 04/11/2024] Cierro: Cortos en 23932
+
+[16:59, 04/11/2025] Abro: Largos en 23932
+[15:36, 06/11/2025] Cierro: Largos en 23967
+
+[15:36, 06/11/2025] Abro: Cortos en 23967
+[09:59, 07/11/2025] Cierro: Cortos en 23741
+
+[12:04, 07/11/2025] Abro: Cortos en 23573
+[10:48, 10/11/2025] Cierro: Cortos en 23959
+
+[14:32, 10/11/2025] Abro: Cortos en 23998
+[16:32, 10/11/2025] Cierro: Cortos en 23992
+
+[16:32, 10/11/2025] Abro: Largos en 23992
+[10:00, 12/11/2025] Cierro: Largos en 24325
+
+[10:35, 12/11/2025] Abro: Largos en 24371
+[10:40, 13/11/2025] Cierro: Largos en 24293
+
+[13:45, 13/11/2025] Abro: Cortos en 24257
+[16:32, 14/11/2025] Cierro: Cortos en 23832
+
+[10:43, 17/11/2025] Abro: Cortos en 23847
+[12:42, 17/11/2025] Cierro: Cortos en 23756
+
+[12:42, 17/11/2025] Abro: Largos en 23756
+[15:28, 17/11/2025] Cierro: Largos en 23654
+
+[16:00, 17/11/2025] Abro: Largos en 23704
+[17:20, 17/11/2025] Cierro: Largos en 23537
+
+[17:20, 17/11/2025] Abro: Cortos en 23537
+[10:10, 18/11/2025] Cierro: Cortos en 23322
+
+[10:24, 18/11/2025] Abro: Largos en 23335
+[10:36, 18/11/2025] Cierro: Largos en 23302
+
+[12:49, 18/11/2025] Abro: Cortos en 23296
+[09:02, 19/11/2025] Cierro: Cortos en 23182
+
+[16:30, 19/11/2025] Abro: Largos en 23371
+[17:04, 19/11/2025] Cierro: Largos en 23246
+
+// --- INICIO MES OPERATIVO DICIEMBRE 2025 --- //
+
+[12:48, 20/11/2025] Abro: Cortos en 23358
+[14:49, 20/11/2025] Cierro: Cortos en 23440
+
+[15:04, 20/11/2025] Abro: Largos en 23471
+[14:24, 24/11/2025] Cierro: Largos en 23264
+
+[14:24, 24/11/2025] Abro: Cortos en 23264
+[09:38, 25/11/2025] Cierro: Cortos en 23266
+
+[12:36, 25/11/2025] Abro: Largos en 23242
+[11:51, 01/12/2025] Cierro: Largos en 23550
+
+[13:32, 01/12/2025] Abro: Cortos en 23460
+[16:03, 01/12/2025] Cierro: Cortos en 23613
+
+[16:03, 01/12/2025] Abro: Largos en 23613
+[09:24, 03/12/2025] Cierro: Largos en 23809
+
+[17:30, 03/12/2025] Abro: Largos en 23670
+[14:46, 04/12/2025] Cierro: Largos en 23897
+
+[17:31, 04/12/2025] Abro: Largos en 23893
+[09:04, 05/12/2025] Cierro: Largos en 23955
+
+[09:25, 05/12/2025] Abro: Largos en 23990
+[17:04, 05/12/2025] Cierro: Largos en 24075
+
+[12:36, 08/12/2025] Abro: Cortos en 24054
+[09:17, 09/12/2025] Cierro: Cortos en 24155
+
+[09:25, 09/12/2025] Abro: Cortos en 24180
+[09:33, 09/12/2025] Cierro: Cortos en 24137
+
+[13:53, 09/12/2025] Abro: Largos en 24118
+[12:58, 10/12/2025] Cierro: Largos en 24062
+
+[13:55, 10/12/2025] Abro: Cortos en 24050
+[15:36, 10/12/2025] Cierro: Cortos en 24051
+
+[15:52, 10/12/2025] Abro: Largos en 24056
+[09:04, 11/12/2025] Cierro: Largos en 24034
+
+[09:20, 11/12/2025] Abro: Largos en 24048
+[11:15, 11/12/2025] Cierro: Largos en 24135
+
+[11:45, 11/12/2025] Abro: Largos en 24152
+[16:32, 15/12/2025] Cierro: Largos en 24198
+
+[10:25, 16/12/2025] Abro: Largos en 24171
+[15:26, 16/12/2025] Cierro: Largos en 24095
+
+[15:45, 16/12/2025] Abro: Largos en 24073
+[15:58, 16/12/2025] Cierro: Largos en 24101
+
+[16:46, 16/12/2025] Abro: Largos en 24046
+[17:05, 16/12/2025] Cierro: Largos en 24083
+
+[09:38, 17/12/2025] Abro: Largos en 24168
+[10:04, 17/12/2025] Cierro: Largos en 24147
+
+[12:08, 17/12/2025] Abro: Largos en 24083
+[12:17, 17/12/2025] Cierro: Largos en 24057
+
+[16:54, 17/12/2025] Abro: Largos en 23988
+[17:16, 17/12/2025] Cierro: Largos en 23954
+
+[09:50, 18/12/2025] Abro: Cortos en 23964
+[12:11, 18/12/2025] Cierro: Cortos en 24022
+
+[15:38, 18/12/2025] Abro: Cortos en 24095
+[15:46, 18/12/2025] Cierro: Cortos en 24068
+
+[16:44, 18/12/2025] Abro: Largos en 24149
+[17:00, 18/12/2025] Cierro: Largos en 24192
+
+[17:00, 18/12/2025] Abro: Cortos en 24192
+[17:01, 18/12/2025] Cierro: Cortos en 24191
+
+[17:33, 18/12/2025] Abro: Largos en 24201
+[11:52, 19/12/2025] Cierro: Largos en 24221
+
+[15:48, 19/12/2025] Abro: Largos en 24250
+[17:13, 19/12/2025] Cierro: Largos en 24297
