@@ -5,7 +5,7 @@ from colorama import Fore, Style, init
 init(autoreset=True)
 
 # --- CONFIGURACIÓN ---
-CSV_VALORES = "datos_dax_1min_2Y.csv"
+CSV_VALORES = "dax_1min.csv"
 TXT_V3 = "operaciones_V3.txt"
 UMBRAL_VERDE = 40
 
